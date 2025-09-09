@@ -11,7 +11,7 @@ Um jogo interativo de adivinhação desenvolvido em JavaScript durante o curso I
 
 ### 🚀 Como jogar
 <ul>
-  <li>Acesse o jogo: https://jogo-snowy-three.vercel.app/</li>
+  <li>Acesse o jogo: https://jogo-numero-secreto-khaki-phi.vercel.app/</li>
   <li>Diga seu palpite ou use o teclado virtual</li>
   <li>Use as dicas para encontrar o número secreto!</li>
 </ul>
